@@ -1,4 +1,4 @@
-# simple-crypter
+# simple Python Crypter
 ---
 Simple python code that encryptes shell code using AES
 
