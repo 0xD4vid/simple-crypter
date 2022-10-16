@@ -1,4 +1,4 @@
-# simple Python Crypter
+# Simple Python Crypter
 
 ![](enc-shell2.png)
 
