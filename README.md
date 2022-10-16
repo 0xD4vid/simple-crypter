@@ -7,7 +7,7 @@
 Simple python code that encryptes shellcode using AES. The encrypted data has been used in C# code to perform process injection. 
 
 * Some python code taken from: https://www.suls.co.uk/slae-assignment-7-custom-crypter/
-* Dycrpt the code in C#: https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=net-6.0
+* Decrypt the code in C#: https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=net-6.0
 
 #### Running The Code
 
