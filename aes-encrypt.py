@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# Creates three byte objects, that are base64 encoded. shellcode, key and IV.
-# AES code taken from: https://www.suls.co.uk/slae-assignment-7-custom-crypter/
+# Creates three byte objects that are base64 encoded. shellcode, key and IV.
+# Some AES code taken from: https://www.suls.co.uk/slae-assignment-7-custom-crypter/
 # Dycrypt in C# https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes?view=net-6.0
 
 
